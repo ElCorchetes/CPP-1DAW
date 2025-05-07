@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BD62EE-9984-4DB0-AC6C-60101FAFFF19}|Game-5\\Game-5.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-5\\Game-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7BD62EE-9984-4DB0-AC6C-60101FAFFF19}|Game-5\\Game-5.vcxproj|solutionrelative:Game-5\\Game-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C1968C-CB13-4AE5-A268-F4724A3C4DFF}|Game-4\\Game-4.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-4\\Game-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15C1968C-CB13-4AE5-A268-F4724A3C4DFF}|Game-4\\Game-4.vcxproj|solutionrelative:Game-4\\Game-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6D00C6-AE74-4D15-B75E-963DC43D7BA5}|Game-1\\Game-1.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-1\\Game-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE6D00C6-AE74-4D15-B75E-963DC43D7BA5}|Game-1\\Game-1.vcxproj|solutionrelative:Game-1\\Game-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F387FE-737C-4856-B847-70DD0A5D7B8F}|Game-2\\Game-2.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-2\\Game-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62F387FE-737C-4856-B847-70DD0A5D7B8F}|Game-2\\Game-2.vcxproj|solutionrelative:Game-2\\Game-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DE48F1-C343-4CC8-B0E4-A5400B2A99EA}|Game-3\\Game-3.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-3\\Game-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DE48F1-C343-4CC8-B0E4-A5400B2A99EA}|Game-3\\Game-3.vcxproj|solutionrelative:Game-3\\Game-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game-5.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-5\\Game-5.cpp",
+              "RelativeDocumentMoniker": "Game-5\\Game-5.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-5\\Game-5.cpp",
+              "RelativeToolTip": "Game-5\\Game-5.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T09:36:01.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game-1.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-1\\Game-1.cpp",
+              "RelativeDocumentMoniker": "Game-1\\Game-1.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-1\\Game-1.cpp",
+              "RelativeToolTip": "Game-1\\Game-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T09:30:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game-2.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-2\\Game-2.cpp",
+              "RelativeDocumentMoniker": "Game-2\\Game-2.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-2\\Game-2.cpp",
+              "RelativeToolTip": "Game-2\\Game-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T09:30:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game-4.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-4\\Game-4.cpp",
+              "RelativeDocumentMoniker": "Game-4\\Game-4.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-4\\Game-4.cpp",
+              "RelativeToolTip": "Game-4\\Game-4.cpp",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T07:33:21.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game-3.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-3\\Game-3.cpp",
+              "RelativeDocumentMoniker": "Game-3\\Game-3.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\Game-1\\Game-3\\Game-3.cpp",
+              "RelativeToolTip": "Game-3\\Game-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T07:17:51.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  classGameTest.cpp
+C:\Users\alain\Desktop\classGameTest\classGameTest\classGameTest.cpp(63,1): warning C4715: 'update': not all control paths return a value
+  classGameTest.vcxproj -> C:\Users\alain\Desktop\classGameTest\x64\Debug\classGameTest.exe

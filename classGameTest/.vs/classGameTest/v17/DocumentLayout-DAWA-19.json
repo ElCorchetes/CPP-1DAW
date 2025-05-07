@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3D624-41BB-43BF-8345-B39DA786CA36}|classGameTest\\classGameTest.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\finalBoss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0A3D624-41BB-43BF-8345-B39DA786CA36}|classGameTest\\classGameTest.vcxproj|solutionrelative:classGameTest\\finalBoss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3D624-41BB-43BF-8345-B39DA786CA36}|classGameTest\\classGameTest.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\finalBoss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0A3D624-41BB-43BF-8345-B39DA786CA36}|classGameTest\\classGameTest.vcxproj|solutionrelative:classGameTest\\finalBoss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A3D624-41BB-43BF-8345-B39DA786CA36}|classGameTest\\classGameTest.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\classGameTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0A3D624-41BB-43BF-8345-B39DA786CA36}|classGameTest\\classGameTest.vcxproj|solutionrelative:classGameTest\\classGameTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalBoss.h",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\FinalBoss.h",
+              "RelativeDocumentMoniker": "classGameTest\\FinalBoss.h",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\FinalBoss.h",
+              "RelativeToolTip": "classGameTest\\FinalBoss.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T07:01:28.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalBoss.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\FinalBoss.cpp",
+              "RelativeDocumentMoniker": "classGameTest\\FinalBoss.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\FinalBoss.cpp",
+              "RelativeToolTip": "classGameTest\\FinalBoss.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T11:30:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classGameTest.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\classGameTest.cpp",
+              "RelativeDocumentMoniker": "classGameTest\\classGameTest.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\classGameTest\\classGameTest\\classGameTest.cpp",
+              "RelativeToolTip": "classGameTest\\classGameTest.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:23:41.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

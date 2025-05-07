@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\ecuacionSegundoGrado2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEF959C-524F-4D83-8899-2435DC1DA851}|ecuacionSegundoGrado.vcxproj|C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\ecuacionSegundoGrado2\\ecuacionSegundoGrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEEF959C-524F-4D83-8899-2435DC1DA851}|ecuacionSegundoGrado.vcxproj|solutionrelative:ecuacionSegundoGrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ecuacionSegundoGrado.cpp",
+              "DocumentMoniker": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\ecuacionSegundoGrado2\\ecuacionSegundoGrado.cpp",
+              "RelativeDocumentMoniker": "ecuacionSegundoGrado.cpp",
+              "ToolTip": "C:\\Users\\alainlozgar\\OneDrive - Centre d\u0027Estudis Monlau\\1r DAW\\Entornos de desarrollo\\ecuacionSegundoGrado2\\ecuacionSegundoGrado.cpp",
+              "RelativeToolTip": "ecuacionSegundoGrado.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T12:25:05.64Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

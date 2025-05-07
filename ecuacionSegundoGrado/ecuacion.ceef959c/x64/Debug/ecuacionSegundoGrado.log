@@ -1,0 +1,4 @@
+﻿  ecuacionSegundoGrado.cpp
+C:\Users\alainlozgar\OneDrive - Centre d'Estudis Monlau\1r DAW\Entornos de desarrollo\ecuacionSegundoGrado2\ecuacionSegundoGrado.cpp(39,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alainlozgar\OneDrive - Centre d'Estudis Monlau\1r DAW\Entornos de desarrollo\ecuacionSegundoGrado2\ecuacionSegundoGrado.cpp(40,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  ecuacionSegundoGrado.vcxproj -> C:\Users\alainlozgar\OneDrive - Centre d'Estudis Monlau\1r DAW\Entornos de desarrollo\ecuacionSegundoGrado2\x64\Debug\ecuacionSegundoGrado.exe
